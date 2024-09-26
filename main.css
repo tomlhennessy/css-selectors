@@ -1,5 +1,12 @@
-/* Your code here */
+#page-title {
+    font-weight: bold;
+}
 
+.pagenum {
+    position: absolute;
+    right: 10px;
+    font-size: small;
+}
 /* ===== DO NOT EDIT BELOW THIS COMMENT ===== */
 
 .noin {
